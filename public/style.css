@@ -18,19 +18,24 @@ body {
 
 .sec1 > h1 {
 	color: #aa8ff8;
-	font-family: "Varela Round", sans-serif;
-	font-size: 5vh;
+	font-family: "Sacramento", cursive;
+	font-style: normal;
+	font-size: 4rem;
 	position: absolute;
-	padding-left: 200px;
-	padding-top: 175px;
+	padding-left: 150px;
+	padding-top: 150px;
 }
 
 .sec1 > p {
 	color: #aa8ff8;
 	font-family: Verdana, sans-serif;
 	font-style: italic;
-	font-size: 4vh;
+	font-size: 2rem;
 	position: relative;
-	padding-left: 200px;
-	padding-top: 210px;
+	padding-left: 150px;
+	padding-top: 230px;
+}
+
+.pro {
+	text-decoration: underline;
 }
